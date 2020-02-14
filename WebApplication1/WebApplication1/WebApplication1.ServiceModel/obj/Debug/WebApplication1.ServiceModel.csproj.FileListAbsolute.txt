@@ -1,0 +1,17 @@
+C:\Users\Rajuja\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\bin\Debug\WebApplication1.ServiceModel.dll
+C:\Users\Rajuja\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\bin\Debug\WebApplication1.ServiceModel.pdb
+C:\Users\Rajuja\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Rajuja\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Rajuja\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\Rajuja\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.csproj.CopyComplete
+C:\Users\Rajuja\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.dll
+C:\Users\Rajuja\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.pdb
+C:\Users\Rajuja\Desktop\ServiceStackIssueCode\WebApplication1\WebApplication1\WebApplication1.ServiceModel\bin\Debug\WebApplication1.ServiceModel.dll
+C:\Users\Rajuja\Desktop\ServiceStackIssueCode\WebApplication1\WebApplication1\WebApplication1.ServiceModel\bin\Debug\WebApplication1.ServiceModel.pdb
+C:\Users\Rajuja\Desktop\ServiceStackIssueCode\WebApplication1\WebApplication1\WebApplication1.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Rajuja\Desktop\ServiceStackIssueCode\WebApplication1\WebApplication1\WebApplication1.ServiceModel\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Rajuja\Desktop\ServiceStackIssueCode\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\Rajuja\Desktop\ServiceStackIssueCode\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.csproj.CopyComplete
+C:\Users\Rajuja\Desktop\ServiceStackIssueCode\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.dll
+C:\Users\Rajuja\Desktop\ServiceStackIssueCode\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.pdb
+C:\Users\Rajuja\Desktop\ServiceStackIssueCode\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.csprojAssemblyReference.cache
